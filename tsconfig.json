@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "lib": [
+            "ES6",
+        ]
+    },
+    "files": [
+        "index.d.ts",
+    ]
+}

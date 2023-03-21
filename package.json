@@ -1,0 +1,14 @@
+{
+  "name": "daisy-api-types",
+  "version": "1.0.0",
+  "description": "Daisy API payload and response types",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
